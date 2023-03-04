@@ -94,5 +94,23 @@
     "lname": "hesham",
     "age": 30,
     "city": "cairo"
+  },
+  {
+    "id": "21",
+    "fname": "omar",
+    "lname": "gaber",
+    "age": 20,
+    "city": "mansoura",
+    "total": 495,
+    "average": 82.5
+  },
+  {
+    "id": "22",
+    "fname": "omar",
+    "lname": "gaber",
+    "age": 20,
+    "city": "mansoura",
+    "total": 495,
+    "average": 82.5
   }
 ]
