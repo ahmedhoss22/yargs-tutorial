@@ -54,4 +54,6 @@ yargs.command({
         Users.list()
     }
 })
+console.log("rawana");
+
  yargs.parse()
